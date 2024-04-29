@@ -1,0 +1,38 @@
+.main{
+width: 300px;
+border-radius: 23px;
+height: 400px;
+background-color: rgb(255, 255, 255);
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.input{
+    margin-top: 27px;
+    width: 250px;
+    border-radius: 23px ;
+border: none;
+/* border-bottom: 2px solid gray; */
+height:50px ;
+font-size: 30px;
+background-color:#2288FF;
+}
+.num1{
+    margin-top: 23px;
+    width: 50px;
+    height: 40px;
+ 
+    background-color: orange;
+    font-size: 33px;
+}
+.num2{
+    width: 50px;
+    height: 40px;
+   
+    background-color: rgb(255, 255, 255);
+    font-size: 33px;
+}
+.X2{
+    background-color: orange;
+    font-size: 33px;
+    
+    width: 210px;
+}
